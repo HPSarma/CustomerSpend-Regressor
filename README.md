@@ -6,4 +6,4 @@ service to certain customers
 
 Different Regression analysis on the Customer Spending data
 
-## Numeric prediction and feature selection using regularized regression
+Numeric prediction and feature selection using regularized regression
